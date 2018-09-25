@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Requests;
+use Auth;
 
 class StaticPagesController extends Controller
 {
